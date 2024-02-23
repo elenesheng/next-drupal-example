@@ -1,3 +1,6 @@
+## About This Repository
+
+This repository is associated with my article on utilizing Drupal as a Headless CMS alongside Next.js to build full-stack web applications. You can find the article [here](https://medium.com/@LunaLoom/why-next-js-drupal-simplifies-frontend-development-with-headless-cms-integration-b6b20a11c0ca).
 ## Setup Instructions
 
 ### Prerequisites
